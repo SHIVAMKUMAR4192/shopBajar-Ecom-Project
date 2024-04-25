@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Product 1",
+      "price": 99.99,
+      "description": "This is the description for Product 1",
+      "ratings": 4.5,
+      "images": [
+        {
+          "public_id": "image1_public_id",
+          "url": "https://example.com/image1.jpg"
+        },
+        {
+          "public_id": "image2_public_id",
+          "url": "https://example.com/image2.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "Seller 1",
+      "stock": 100,
+      "numOfReviews": 10,
+      "reviews": [
+        {
+          "name": "Reviewer 1",
+          "rating": 4.5,
+          "comment": "This product is great!"
+        },
+        {
+          "name": "Reviewer 2",
+          "rating": 5,
+          "comment": "I love this product!"
+        }
+      ]
+    },
+    {
+      "name": "Product 2",
+      "price": 49.99,
+      "description": "This is the description for Product 2",
+      "ratings": 3.8,
+      "images": [
+        {
+          "public_id": "image3_public_id",
+          "url": "https://example.com/image3.jpg"
+        }
+      ],
+      "category": "Books",
+      "seller": "Seller 2",
+      "stock": 50,
+      "numOfReviews": 5,
+      "reviews": [
+        {
+          "name": "Reviewer 3",
+          "rating": 3.5,
+          "comment": "Not bad, but could be better."
+        }
+      ]
+    }
+  ]
+  
